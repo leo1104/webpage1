@@ -323,7 +323,7 @@ padding: 2rem 1rem;
 .footer{
     margin: 0 5rem;
 }
-
+/* phone view */
 @media screen and (max-width:992px){
     .details {
         padding: 2rem 0 0 1rem;
