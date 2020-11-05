@@ -396,4 +396,9 @@ padding: 2rem 1rem;
 .fot ul li a{
     padding: 2rem 0.7rem;
 }
+
+.footer{
+    margin: 0;
+    font-size: 0.9rem;
+}
     }
